@@ -119,16 +119,3 @@ const seedOptions = {
         2
     )
 }
-
-
-// const myFarm = new Farm()
-// myFarm.field[0][0].seed(seedOptions.basil)
-// console.log(myFarm)
-// console.log(myFarm.field[0][0])
-// myFarm.generateNextDay()
-// console.log(myFarm.field[0][0])
-
-
-/* NODE GAME SETUP */
-
-
